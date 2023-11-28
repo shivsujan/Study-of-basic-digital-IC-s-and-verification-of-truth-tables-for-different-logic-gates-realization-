@@ -63,6 +63,8 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 
 Developed by: S R SHIV SUJAN
 
+Register Number: 23004611
+
 Code:
 
 ![Exp1 code](https://github.com/shivsujan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145633245/3f1a813f-78e0-4dd7-8532-4b5327e140e6)
